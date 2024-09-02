@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Akash Sukumaran and I am a Senior at Virginia Tech Studying Computer Science!
+
+### A little bit more about me
+
+- I am from Richmond, VA
+- In my free time I enjoy going to the gym and playing basketball and tennis
 <!--
 **akashsukuVT/akashsukuVT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
